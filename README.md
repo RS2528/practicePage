@@ -1,2 +1,15 @@
 # practicePage
 my learnings
+
+
+
+
+
+
+
+
+
+
+
+
+
